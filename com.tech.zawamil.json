@@ -1,19 +1,9 @@
 {
-    "application": "save_root_paths",
-    "version": 0.1,
-    "content": [
-        "C:/Users/A.K98/Documents/DAZ 3D/Studio/My Library",
-        "C:/Users/Public/Documents/My DAZ 3D Library"
-    ],
-    "builtin_mdl": [
-        "H://shaders/iray",
-        "C:/Users/A.K98/AppData/Roaming/DAZ 3D/Studio4/shaders/iray",
-        "C:/Users/A.K98/AppData/Roaming/DAZ 3D/Studio4/temp/shaders/iray"
-    ],
-    "import_dirs": [
-    ],
-    "mdl_dirs": [
-    ],
-    "builtin_content" : "C:/ProgramData/DAZ 3D/Studio4/DAZ Built-in Content",
-    "cloud_content" : "C:/Users/A.K98/Documents/DAZ 3D/Studio/My Daz Connect Library"
+  "ad_status": "on",
+  "ad_type": "admob",
+  "admob_rewarded_ad_id": "ca-app-pub-8320002930826092/6004955586",
+  "admob_banner_unit_id": "ca-app-pub-8320002930826092/1239714063",
+  "admob_interstitial_unit_id": "ca-app-pub-8320002930826092/7318037259",
+  "admob_app_open_ad_unit_id": "ca-app-pub-8320002930826092/7280071909",
+  "onesignal_app_id": ""
 }
