@@ -1,9 +1,12 @@
 {
+  "exit_ad_text": "مهرجانات عصام صاصا 2026بدون نت",
+  "exit_ad_image": "https://play-lh.googleusercontent.com/og3UZOMQ-chDD8Y13i95d23lfhSdaW2Nbv2v7fLYndd5A3TBM5REr7PhW9i-W5yTYctsP2T0TE8FhJBmZ8TayQ=w240-h480-rw",
+  "exit_ad_link": "https://play.google.com/store/apps/details?id=com.tech.isam",
   "ad_status": "on",
   "ad_type": "admob",
   "admob_rewarded_ad_id": "ca-app-pub-8320002930826092/6004955586",
   "admob_banner_unit_id": "ca-app-pub-8320002930826092/1239714063",
   "admob_interstitial_unit_id": "ca-app-pub-8320002930826092/7318037259",
   "admob_app_open_ad_unit_id": "ca-app-pub-8320002930826092/7280071909",
-  "onesignal_app_id": ""
+  "admob_native_id": "ca-app-pub-8320002930826092/8296629311",
 }
