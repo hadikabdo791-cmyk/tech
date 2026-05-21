@@ -4,9 +4,9 @@
   "exit_ad_link": "https://play.google.com/store/apps/details?id=com.dve.zawamil",
   "ad_status": "on",
   "ad_type": "admob",
-  "admob_rewarded_ad_id": "ca-app-pub-3940256099942544/5224354917",
-  "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
-  "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
-  "admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
-  "admob_native_id": "ca-app-pub-3940256099942544/2247696110"
+  "admob_rewarded_ad_id": "ca-app-pub-8320002930826092/7320461129",
+  "admob_banner_unit_id": "ca-app-pub-8320002930826092/5324853177",
+  "admob_interstitial_unit_id": "ca-app-pub-8320002930826092/4011771500",
+  "admob_app_open_ad_unit_id": "ca-app-pub-8320002930826092/2191800674",
+  "admob_native_id": "ca-app-pub-8320002930826092/2085509378"
 }
