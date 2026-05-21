@@ -1,12 +1,12 @@
 {
-  "exit_ad_text": "تطبيق اغاني الشامي بدون نت مجاناً من هنا",
-  "exit_ad_image": "https://play-lh.googleusercontent.com/CKu8KtjEn2U2JyoLBwWI_zEKJRomS0KKy_Xqm8trv3tH-wUByP5ejLTJ6qEq4zvbR_EpNjM-zOKh6m8emIOM=w240-h480-rw",
-  "exit_ad_link": "https://play.google.com/store/apps/details?id=com.dve.zawamil",
+  "exit_ad_text": "",
+  "exit_ad_image": "",
+  "exit_ad_link": "",
   "ad_status": "on",
   "ad_type": "admob",
-  "admob_rewarded_ad_id": "ca-app-pub-3940256099942544/5224354917",
-  "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
-  "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
-  "admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
-  "admob_native_id": "ca-app-pub-3940256099942544/2247696110"
+  "admob_rewarded_ad_id": "ca-app-pub-8320002930826092/6407897763",
+  "admob_banner_unit_id": "ca-app-pub-8320002930826092/9399829550",
+  "admob_interstitial_unit_id": "ca-app-pub-8320002930826092/5045194724",
+  "admob_app_open_ad_unit_id": "ca-app-pub-8320002930826092/5425988587",
+  "admob_native_id": "ca-app-pub-8320002930826092/3700323468"
 }
