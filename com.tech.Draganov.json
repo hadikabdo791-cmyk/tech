@@ -1,0 +1,12 @@
+{
+  "exit_ad_text": "",
+  "exit_ad_image": "",
+  "exit_ad_link": "",
+  "ad_status": "on",
+  "ad_type": "admob",
+  "admob_rewarded_ad_id": "ca-app-pub-8320002930826092/3874866677",
+  "admob_banner_unit_id": "ca-app-pub-8320002930826092/6501030016",
+  "admob_interstitial_unit_id": "ca-app-pub-8320002930826092/6967933871",
+  "admob_app_open_ad_unit_id": "ca-app-pub-8320002930826092/2054674071",
+  "admob_native_id": "ca-app-pub-8320002930826092/5654852204"
+}
