@@ -2,7 +2,7 @@
   "exit_ad_text": "",
   "exit_ad_image": "",
   "exit_ad_link": "",
-  "ad_status": "on",
+  "ad_status": "off",
   "ad_type": "admob",
   "admob_rewarded_ad_id": "ca-app-pub-8320002930826092/1329767848",
   "admob_banner_unit_id": "ca-app-pub-8320002930826092/6355926870",
