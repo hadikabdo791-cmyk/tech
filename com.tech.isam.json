@@ -1,9 +1,12 @@
 {
-  "ad_status": "on",
-  "ad_type": "admob",
-  "admob_banner_unit_id": "ca-app-pub-8320002930826092/7417843670",
-  "admob_interstitial_unit_id": "ca-app-pub-8320002930826092/8976897968",
-  "admob_app_open_ad_unit_id": "ca-app-pub-8320002930826092/5118983395",
-  "admob_rewarded_ad_id": "ca-app-pub-8320002930826092/4791680339",
-  "onesignal_app_id": ""
+  "exit_ad_text": "",
+  "exit_ad_image": "",
+  "exit_ad_link": "",
+  "ad_status": "",
+  "ad_type": "",
+  "admob_rewarded_ad_id": "",
+  "admob_banner_unit_id": "",
+  "admob_interstitial_unit_id": "",
+  "admob_app_open_ad_unit_id": "",
+  "admob_native_id": ""
 }
