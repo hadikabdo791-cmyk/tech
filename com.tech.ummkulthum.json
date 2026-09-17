@@ -3,10 +3,10 @@
   "exit_ad_image": "",
   "exit_ad_link": "",
   "ad_status": "",
-  "ad_type": "",
-  "admob_rewarded_ad_id": "",
+  "ad_type": "admob",
+  "admob_rewarded_ad_id": "ca-app-pub-4884164987135617/5587840308",
   "admob_banner_unit_id": "",
-  "admob_interstitial_unit_id": "",
-  "admob_app_open_ad_unit_id": "",
+  "admob_interstitial_unit_id": "ca-app-pub-4884164987135617/3510315186",
+  "admob_app_open_ad_unit_id": "ca-app-pub-4884164987135617/4328572832",
   "admob_native_id": ""
 }
