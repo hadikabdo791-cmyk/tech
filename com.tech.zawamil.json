@@ -4,9 +4,9 @@
   "exit_ad_link": "",
   "ad_status": "on",
   "ad_type": "admob",
-  "admob_rewarded_ad_id": "",
+  "admob_rewarded_ad_id": "ca-app-pub-4884164987135617/8214003645",
   "admob_banner_unit_id": "",
-  "admob_interstitial_unit_id": "",
-  "admob_app_open_ad_unit_id": "",
+  "admob_interstitial_unit_id": "ca-app-pub-4884164987135617/9527085310",
+  "admob_app_open_ad_unit_id": "ca-app-pub-4884164987135617/6136478524",
   "admob_native_id": "",
 }
