@@ -1,0 +1,16 @@
+{
+  "ad_status": "1",
+  "ad_type": "admob",
+  "admob_banner_unit_id": "",
+  "admob_interstitial_unit_id": "",
+  "admob_rewarded_ad_id": "",
+  "admob_native_unit_id": "",
+  "admob_app_open_ad_unit_id": "",
+  "onesignal_app_id": "",
+
+  "AppUpdate": {
+    "force_update": false,
+    "update_message": "هذا التطبيق لم يعد مدعوماً، يرجى تثبيت النسخة الجديدة للاستمرار.",
+    "update_url": "https://play.google.com/store/apps/details?id=com.tech.Jackson"
+  }
+}
